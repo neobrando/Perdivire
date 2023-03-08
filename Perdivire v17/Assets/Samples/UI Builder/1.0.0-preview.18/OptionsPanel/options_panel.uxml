@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:Template name="VisualElement" src="/Assets/VisualElement.uxml" />
+    <Style src="/Assets/ux.uss" />
+    <ui:Instance template="VisualElement" name="VisualElement" style="opacity: 1; display: flex; visibility: visible; -unity-background-image-tint-color: rgba(87, 31, 31, 255);" />
+</ui:UXML>

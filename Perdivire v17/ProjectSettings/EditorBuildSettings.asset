@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Inicial.unity
+    guid: b3f38baae0354164b9683903694c57eb
+  - enabled: 1
+    path: Assets/Scenes/perdivire.unity
+    guid: 6c7657c7d8e646e45883b3aa3e9b1203
+  - enabled: 1
+    path: Assets/Scenes/Modelos 3D/Head.unity
+    guid: 582c56f949cf2754e94b51ff9375634c
+  - enabled: 1
+    path: Assets/Scenes/Modelos 3D/Pulmones.unity
+    guid: 7a9664cdb5b4b7244b8604109a813d99
+  - enabled: 1
+    path: Assets/Scenes/Modelos 3D/Torso.unity
+    guid: 018dfa83bffc25a4c9d024fed806bab9
+  - enabled: 1
+    path: Assets/Scenes/Modelos 3D/Pierna.unity
+    guid: 5fdde04e6bc6abb458cafa1f04e80358
+  - enabled: 1
+    path: Assets/Scenes/Modelos 3D/Brazo.unity
+    guid: af4e8e0e46515354a9ef50d8107af3b6
+  - enabled: 1
+    path: Assets/Scenes/Modelos 3D/Brazosk.unity
+    guid: b0bf11b39d06cbf4393c653790099831
+  - enabled: 1
+    path: Assets/Scenes/Urgencias/animacion.unity
+    guid: 24bcbcef6d6ca594fbed95a60327672d
+  - enabled: 1
+    path: "Assets/Scenes/Modelos 3D/ri\xF1on.unity"
+    guid: cce8da4f93f87554da53507e71c9834e
+  - enabled: 1
+    path: "Assets/Scenes/Patologias/PatologiaRi\xF1on.unity"
+    guid: 8ba006d22a3c0a7458792edfffc1a591
+  - enabled: 1
+    path: Assets/Scenes/Patologias/PatologiaBrazo.unity
+    guid: 7cb6b1b68d049a046a2c837a90c6a936
+  - enabled: 1
+    path: Assets/Scenes/Patologias/PatologiaHead.unity
+    guid: 0ab64523824ab874dac521113d11804f
+  - enabled: 1
+    path: Assets/Scenes/Patologias/PatologiaPierna.unity
+    guid: d8643a99711c8e84199bec6c37407bec
+  - enabled: 1
+    path: Assets/Scenes/Patologias/PatologiaPulmon.unity
+    guid: 957501807840bc14d8cf26a4cb248cff
+  - enabled: 1
+    path: Assets/Scenes/Patologias/PatologiaTorso.unity
+    guid: 4199f28c86ff97946bbeb2f26a03ed26
+  - enabled: 1
+    path: Assets/Scenes/Urgencias/ViaArea.unity
+    guid: 4c5713da4299a6b409b7bf9166fb2b89
+  - enabled: 1
+    path: Assets/Scenes/Modelos 3D/Headsk.unity
+    guid: 27f44d62713c51e4fbd13345606624b8
+  - enabled: 1
+    path: Assets/Scenes/Urgencias/A.unity
+    guid: cad7acc3e094ebc46a99e816fd83cb70
+  - enabled: 1
+    path: Assets/Scenes/Urgencias/corma.unity
+    guid: 8fdadfdb012f32a4d83ee9d551db2b3a
+  - enabled: 1
+    path: Assets/Scenes/Modelos 3D/Torsosk.unity
+    guid: 9f9f2a138f051604a89e8a61e80852f0
+  - enabled: 1
+    path: Assets/Scenes/Urgencias/palaldret.unity
+    guid: efb36bf323e414e41b8e099162bda210
+  - enabled: 1
+    path: Assets/Scenes/Urgencias/Mallampti.unity
+    guid: c241f9e0d1d74664b9c24cb38b010cee
+  - enabled: 1
+    path: Assets/Scenes/Modelos 3D/Piernask.unity
+    guid: 5322c1291b7b4574bb8bc8d6adad13e8
+  m_configObjects: {}
