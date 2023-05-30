@@ -72,6 +72,9 @@ Commit Changes: Commit the changes using the git commit -m "Commit message" comm
 Push to GitHub: Push the committed changes to the GitHub repository using the git push command. This will upload the project files to the remote repository on GitHub.
 
 Branching and Pull Requests: If working in a team.
+ 
+ #Conclusion
+ Jaime: Overall, the combination of Trello and GitHub provides a comprehensive project management and version control solution. Trello enables task organization, collaboration, and workflow visualization, while GitHub ensures code versioning, collaboration, and code quality control. By leveraging both platforms, software development teams can enhance productivity, streamline communication, and deliver high-quality software projects efficiently.
 
 
 # References
