@@ -60,6 +60,7 @@ Create a GitHub Repository: Sign in to GitHub and navigate to the main page. Cli
 
 Add remote origin:To add a new remote repository, use the 'git remote add origin' command in the terminal, inside the directory where your repository is stored.
  'git remote add origin https://github.com/OWNER/REPOSITORY.git'
+The address after the word origin is according to the repository previously created.
 
 Add Project Files: Place all the relevant project files within the repository directory on your local machine. Use the 'git add <file>' command to stage the files for commit.
 
