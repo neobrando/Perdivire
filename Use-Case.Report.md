@@ -69,17 +69,17 @@ The address after the word origin is according to the repository previously crea
 - Push to GitHub: Push the committed changes to the GitHub repository using the git push command. This will upload the project files to the remote repository on GitHub.
 
 # Discussion or conclusions
- ## Cordero Soto
+- Cordero Soto
  
- ## Jimenez Vargas
+- Jimenez Vargas
  
- ## Rodriguez Gomez
+- Rodriguez Gomez
 We got to use what was trello and github and the truth is that it is something very comfortable to use github it is easy to understand aside it is easy that we can see the changes that are made in the code despite the fact that each one of the team He did something different, we were able to complement each other in a comfortable way since I consider github to be a good option to use. and we use what is trello. I feel that, like github, it felt very comfortable to use since they could visualize what each member is doing, how progress is being made and depending on what is being done and how long it takes to dictate their support will be needed or not so it can be said that I felt that progress was very easy thanks to the use of these tools
  
- ## Santacruz Estrada
+- Santacruz Estrada
 Using Github to host our repository helps us keep track of the project. Making easy to access and review previous changes and versions. Github also allow us to work in an interesting way as a team. Each member can be working in different task without affecting each other which can be done through the use of branches. Trello help us to have a visual environment to visualize what is needed to be done, what is being doing, how is the progress of our partners, and so on. Based on the above, this tools - Trello and Github - are useful when performing the mainteinence of the project.
  
- ## Serrato Contreras
+- Serrato Contreras
 Overall, the combination of Trello and GitHub provides a comprehensive project management and version control solution. Trello enables task organization, collaboration, and workflow visualization, while GitHub ensures code versioning, collaboration, and code quality control. By leveraging both platforms, software development teams can enhance productivity, streamline communication, and deliver high-quality software projects efficiently.
 
 # References
