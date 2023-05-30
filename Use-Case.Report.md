@@ -78,8 +78,8 @@ Push to GitHub: Push the committed changes to the GitHub repository using the gi
  ## Santacruz Estrada
  Using Github to host our repository helps us keep track of the project. Making easy to access and review previous changes and versions. Github also allow us to work in an interesting way as a team. Each member can be working in different task without affecting each other which can be done through the use of branches. Trello help us to have a visual environment to visualize what is needed to be done, what is being doing, how is the progress of our partners, and so on. Based on the above, this tools - Trello and Github - are useful when performing the mainteinence of the project.
  
- 
  ## Serrato Contreras
+ Overall, the combination of Trello and GitHub provides a comprehensive project management and version control solution. Trello enables task organization, collaboration, and workflow visualization, while GitHub ensures code versioning, collaboration, and code quality control. By leveraging both platforms, software development teams can enhance productivity, streamline communication, and deliver high-quality software projects efficiently.
 
 # References
 GitHub Docs. (n.d.). GitHub Docs. Retrieved May 29, 2023, from https://docs.github.com/es
