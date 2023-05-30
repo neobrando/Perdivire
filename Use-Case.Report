@@ -2,7 +2,7 @@
  
 Software Maintenance
 
-Use Case Report
+#Use Case Report
 
 Students:
 -Cordero Soto Oscar Alejandro
@@ -11,7 +11,7 @@ Students:
 -Santacruz Estrada Jesus Alejandro
 -Serrato Contreras Jaime
 
-INTRODUCTION
+#INTRODUCTION
 
 In the world of software development, technology enthusiasts and professionals are constantly seeking innovative tools and platforms to streamline their processes and enhance collaboration. one of the most popular ones, GitHub is one of the best options regarding it’s performance transforming the way software is developed, shared, and managed. As a robust version control system and collaboration platform, GitHub revolutionizes the software development lifecycle, empowering developers and teams with unparalleled advantages and paving the way for seamless project management.
 
@@ -19,12 +19,12 @@ This essay delves into the realm of software development and explores the profou
 
 
 
-Justification for Using GitHub
+#Justification for Using GitHub
 
 GitHub offers several compelling reasons for using it as a software maintenance tool for our project. GitHub provides robust version control features, allowing us to track changes made to our project over time. This ensures that we can easily revert to previous versions if necessary and collaborate effectively as a team.
 GitHub makes collaboration easier among team members. It allows multiple developers to work on the same project simultaneously, resolving conflicts using and merging changes efficiently.
 
-Justification for Using Trello
+#Justification for Using Trello
 
 
 Trello is the project management tool chosen for our project due to the following advantages:
@@ -34,7 +34,7 @@ Team members can comment on cards, mention others, and attach relevant files or 
 Trello could be integrated with various other tools and services. We can connect Trello with GitHub, Slack, and other popular development tools, enabling efficient communication and data synchronization across different platforms.
 
 
-Trello set up 
+#Trello set up 
 
 Step 1: Access Trello
 Go to Trello in your favorite web browser. If you don't have an account, sign up for free.
@@ -57,7 +57,7 @@ You can click on any card to open it and add more details. You can assign a resp
 Step 7: Create tags (optional)
 If you want to categorize your tasks, you can create tags. To do this, click the "Labels" button on the right side of a card and select "Create Label". Give it a name and color and click "Save."
 
-Methodology of 
+#Methodology of GitHub
 
 Step-by-Step Process of Uploading Project to GitHub
 Create a GitHub Repository: Sign in to GitHub and navigate to the main page. Click on the "New" button to create a new repository. Provide a repository name, description, and choose appropriate settings (public or private).
@@ -73,6 +73,6 @@ Push to GitHub: Push the committed changes to the GitHub repository using the gi
 Branching and Pull Requests: If working in a team.
 
 
-References
+#References
 GitHub Docs. (n.d.). GitHub Docs. Retrieved May 29, 2023, from https://docs.github.com/es
 Trello guide (n.d) , Trello guide. Create a Trello project, from https://trello.com/guide/create-project
