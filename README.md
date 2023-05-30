@@ -72,6 +72,8 @@ The address after the word origin is according to the repository previously crea
  ## Cordero Soto
  
  ## Jimenez Vargas
+I have some previus experience using treloo and I know is really useful to control all the work flow, everyone can know the work that is need to do, or the work that is doing, this added to github makes the work flow really fast. github it's really important nowadays, lots of enterprices use it to make the work go faster because everyone can make
+changes into the system at the same time and using the diferent branches to make specific commits to the complete program, this make really faster to work together because it's faster to modify in the server the data that upload every version to a cloud service. 
  
  ## Rodriguez Gomez
 We got to use what was trello and github and the truth is that it is something very comfortable to use github it is easy to understand aside it is easy that we can see the changes that are made in the code despite the fact that each one of the team He did something different, we were able to complement each other in a comfortable way since I consider github to be a good option to use. and we use what is trello. I feel that, like github, it felt very comfortable to use since they could visualize what each member is doing, how progress is being made and depending on what is being done and how long it takes to dictate their support will be needed or not so it can be said that I felt that progress was very easy thanks to the use of these tools
