@@ -4,11 +4,11 @@
 Software Maintenance
 
 Students:
--Cordero Soto Oscar Alejandro
--Jimenez Vargas Roberto Javier
--Rodriguez Gomez Luis Daniel
--Santacruz Estrada Jesus Alejandro
--Serrato Contreras Jaime
+- Cordero Soto Oscar Alejandro
+- Jimenez Vargas Roberto Javier
+- Rodriguez Gomez Luis Daniel
+- Santacruz Estrada Jesus Alejandro
+- Serrato Contreras Jaime
 
 # INTRODUCTION
 
