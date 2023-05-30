@@ -1,8 +1,7 @@
+
 # Perdivire
  
 Software Maintenance
-
-#Use Case Report
 
 Students:
 -Cordero Soto Oscar Alejandro
@@ -11,21 +10,18 @@ Students:
 -Santacruz Estrada Jesus Alejandro
 -Serrato Contreras Jaime
 
-#INTRODUCTION
+# INTRODUCTION
 
 In the world of software development, technology enthusiasts and professionals are constantly seeking innovative tools and platforms to streamline their processes and enhance collaboration. one of the most popular ones, GitHub is one of the best options regarding it’s performance transforming the way software is developed, shared, and managed. As a robust version control system and collaboration platform, GitHub revolutionizes the software development lifecycle, empowering developers and teams with unparalleled advantages and paving the way for seamless project management.
-
-This essay delves into the realm of software development and explores the profound advantages of utilizing GitHub as an indispensable tool and how we implement it on a collaborative project. By examining the advantages and the methodology and commands used on GitHub, we uncover a host of benefits that accelerate productivity, foster collaboration, and foster innovation.
-
+This essay delves into the realm of software development and explores the advantages of utilizing GitHub as an indispensable tool and how we implement it on a collaborative project. By examining the advantages and the methodology and commands used on GitHub, we uncover a host of benefits that accelerate productivity, foster collaboration, and foster innovation.
 
 
-#Justification for Using GitHub
+## Justification for Using GitHub
 
 GitHub offers several compelling reasons for using it as a software maintenance tool for our project. GitHub provides robust version control features, allowing us to track changes made to our project over time. This ensures that we can easily revert to previous versions if necessary and collaborate effectively as a team.
 GitHub makes collaboration easier among team members. It allows multiple developers to work on the same project simultaneously, resolving conflicts using and merging changes efficiently.
 
-#Justification for Using Trello
-
+## Justification for Using Trello
 
 Trello is the project management tool chosen for our project due to the following advantages:
 Trello provides a visual and intuitive workflow system using boards, lists, and cards. This enables us to organize tasks, track progress, and visualize the overall project status easily.
@@ -33,8 +29,9 @@ We can create custom labels, add attachments, set due dates, and assign team mem
 Team members can comment on cards, mention others, and attach relevant files or links.
 Trello could be integrated with various other tools and services. We can connect Trello with GitHub, Slack, and other popular development tools, enabling efficient communication and data synchronization across different platforms.
 
+# Methodology:
 
-#Trello set up 
+## Method for creating a management environment for the tool you will be using. 
 
 Step 1: Access Trello
 Go to Trello in your favorite web browser. If you don't have an account, sign up for free.
@@ -57,22 +54,33 @@ You can click on any card to open it and add more details. You can assign a resp
 Step 7: Create tags (optional)
 If you want to categorize your tasks, you can create tags. To do this, click the "Labels" button on the right side of a card and select "Create Label". Give it a name and color and click "Save."
 
-#Methodology of GitHub
+## Step-by-step process of uploading your project to Github
 
-Step-by-Step Process of Uploading Project to GitHub
 Create a GitHub Repository: Sign in to GitHub and navigate to the main page. Click on the "New" button to create a new repository. Provide a repository name, description, and choose appropriate settings (public or private).
 
-Clone the Repository: Once the repository is created, click on the "Code" button and copy the repository URL. Open your terminal or Git client, navigate to the desired project directory, and run the git clone <repository URL> command to clone the repository to your local machine.
+Add remote origin:To add a new remote repository, use the 'git remote add origin' command in the terminal, inside the directory where your repository is stored.
+ 'git remote add origin https://github.com/OWNER/REPOSITORY.git'
 
-Add Project Files: Place all the relevant project files within the cloned repository directory on your local machine. Use the git add <file> command to stage the files for commit.
+Add Project Files: Place all the relevant project files within the repository directory on your local machine. Use the 'git add <file>' command to stage the files for commit.
 
 Commit Changes: Commit the changes using the git commit -m "Commit message" command. It is good practice to provide a descriptive commit message that summarizes the changes made.
 
 Push to GitHub: Push the committed changes to the GitHub repository using the git push command. This will upload the project files to the remote repository on GitHub.
 
-Branching and Pull Requests: If working in a team.
+# Discussion or conclusions
+ ## Cordero Soto
+ 
+ ## Jimenez Vargas
+ 
+ ## Rodriguez Gomez
+ 
+ ## Santacruz Estrada
+ Using Github to host our repository helps us keep track of the project. Making easy to access and review previous changes and versions. Github also allow us to work in an interesting way as a team. Each member can be working in different task without affecting each other which can be done through the use of branches. Trello help us to have a visual environment to visualize what is needed to be done, what is being doing, how is the progress of our partners, and so on. Based on the above, this tools - Trello and Github - are useful when performing the mainteinence of the project.
+ 
+ 
+ ## Serrato Contreras
 
-
-#References
+# References
 GitHub Docs. (n.d.). GitHub Docs. Retrieved May 29, 2023, from https://docs.github.com/es
+ 
 Trello guide (n.d) , Trello guide. Create a Trello project, from https://trello.com/guide/create-project
