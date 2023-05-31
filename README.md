@@ -70,6 +70,7 @@ The address after the word origin is according to the repository previously crea
 
 # Discussion or conclusions
  ## Cordero Soto
+In conclusion, the utilization of GitHub and Trello as tools for software maintenance and project management has proven to be highly beneficial for our collaborative project. GitHub's robust version control features allow us to track changes, revert to previous versions if necessary, and collaborate effectively as a team. Its ability to handle simultaneous work on the same project and efficiently merge changes resolves conflicts seamlessly. Trello, on the other hand, provides a visual and intuitive workflow system that helps us organize tasks, track progress, and visualize the overall project status. It enables us to customize labels, add attachments, set due dates, assign team members, and integrate with other development tools for efficient communication and data synchronization.
  
  ## Jimenez Vargas
 I have some previus experience using treloo and I know is really useful to control all the work flow, everyone can know the work that is need to do, or the work that is doing, this added to github makes the work flow really fast. github it's really important nowadays, lots of enterprices use it to make the work go faster because everyone can make
