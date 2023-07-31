@@ -28,6 +28,7 @@ public class Boton : MonoBehaviour
     }
 
     // Metodos para cambiar entre true/false los booleanos cada que presionas el btn correspondiente
+    // Cambiando animaciones para la visualizacion
     public void ButtonShowMenu()
     {
         if(!showMenu)
