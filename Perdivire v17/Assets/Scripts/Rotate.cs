@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Rotate : MonoBehaviour {
  
- // Update is called once per frame
+ // Rotate the 3D model automatically every frame
  void Update () {
   transform.Rotate(0,20*Time.deltaTime,0);
  }
