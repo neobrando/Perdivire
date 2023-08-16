@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Modelos 3D/Head.unity
+- path: Assets/Scenes/perdivire.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

@@ -1,38 +1,58 @@
 using System.Collections;
 using UnityEngine;
 
-public class CSharpscaling : MonoBehaviour {
- 
- 
- public float initialFingersDistance;
- public Vector3 initialScale;
- public static Transform ScaleTransform;
- 
- 
- void  Update (){
-  int fingersOnScreen = 0;
-  
-  foreach(Touch touch in Input.touches) {
-   fingersOnScreen++; //Count fingers (or rather touches) on screen as you iterate through all screen touches.
-   
-   //You need two fingers on screen to pinch.
-   if(fingersOnScreen == 2){
-    
-    //First set the initial distance between fingers so you can compare.
-    if(touch.phase == TouchPhase.Began){
-     initialFingersDistance = Vector2.Distance(Input.touches[0].position, Input.touches[1].position);
-     initialScale = ScaleTransform.localScale;
+public class CSharpscaling : MonoBehaviour
+{
+    public float initialFingersDistance;
+    public Vector3 initialScale;
+    public static Transform ScaleTransform;
+
+    private Vector3 originalPosition;
+
+    void Start()
+    {
+        // Almacenar la posición original del objeto al inicio
+        originalPosition = ScaleTransform.position;
     }
-    else{
-     float currentFingersDistance = Vector2.Distance(Input.touches[0].position, Input.touches[1].position);
-     
-     float scaleFactor = currentFingersDistance / initialFingersDistance;
-     
-     //transform.localScale = initialScale * scaleFactor;
-     ScaleTransform.localScale = initialScale * scaleFactor; 
+
+    void Update()
+    {
+        int fingersOnScreen = 0;
+
+        foreach (Touch touch in Input.touches)
+        {
+            fingersOnScreen++; //Count fingers (or rather touches) on screen as you iterate through all screen touches.
+
+            //You need two fingers on screen to pinch.
+            if (fingersOnScreen == 2)
+            {
+                //First set the initial distance between fingers so you can compare.
+                if (touch.phase == TouchPhase.Began)
+                {
+                    initialFingersDistance = Vector2.Distance(Input.touches[0].position, Input.touches[1].position);
+                    initialScale = ScaleTransform.localScale;
+                }
+                else
+                {
+                    float currentFingersDistance = Vector2.Distance(Input.touches[0].position, Input.touches[1].position);
+
+                    float scaleFactor = currentFingersDistance / initialFingersDistance;
+
+                    ScaleTransform.localScale = initialScale * scaleFactor;
+                }
+            }
+        }
     }
-   }
-  }
- }  
-} 
-  
+
+    void OnMouseDown()
+    {
+        // Guardar la posición original del objeto al hacer clic
+        originalPosition = ScaleTransform.position;
+    }
+
+    void OnMouseUp()
+    {
+        // Restablecer la posición original del objeto cuando se suelta el clic
+        ScaleTransform.position = originalPosition;
+    }
+}
