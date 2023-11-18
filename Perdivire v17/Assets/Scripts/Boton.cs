@@ -143,4 +143,27 @@ public class Boton : MonoBehaviour
             btn_P4.SetActive(true);
         }
     }
+
+
+        public void ButtonShowDiagram()
+    {
+        //Panel mostrado
+        if(!showP5){
+            btn_P5.transform.Translate(0f, 1000.44058f, 0f); 
+            showP5 = true;
+            btn_P1.SetActive(false);
+            btn_P2.SetActive(false);
+            btn_P3.SetActive(false);
+            btn_P4.SetActive(false);
+        }
+        //Panel oculto
+        else if (showP5){
+            btn_P5.transform.Translate(0f, -1000.44058f, 0f);
+            showP5 = false;
+            btn_P1.SetActive(true);
+            btn_P2.SetActive(true);
+            btn_P3.SetActive(true);
+            btn_P4.SetActive(true);
+        }
+    }
 }
